@@ -1,3 +1,7 @@
 # angular-avkbay-exhgmn
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-avkbay-exhgmn)
+
+### how to use
+```
+ctrl + c => ctrl + v
+```
